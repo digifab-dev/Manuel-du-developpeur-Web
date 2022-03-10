@@ -10,6 +10,7 @@ Toutes les ressources et notes de la formation [Développeur Web](https://lms.di
 [ 2. *Comment fonctionne internet ?*](#02)<br>
 [ 3. *L'histoire du Web*](#03)<br>
 [ 4. *HTML5*](#04)<br>
+[ 5. *HTML5 avancé*](#05)<br>
 ******************************************************************************************
 
 ## <a name ="01"></a>1.	__Introduction__
@@ -84,6 +85,37 @@ Carte des câbles sous-marins:
 *	https://developer.mozilla.org/en-US/
 *	https://stackoverflow.com/
 *	https://htmlreference.io/
+
+
+******************************************************************************************
+## <a name ="05"></a>5.	__HTML5 avancé__
+
+
+### **Balises :**
+*	`<form>`
+	*	`method`, `action`
+*	`<input>`:
+	*	`type`= `"text"`, `"submit"`, `"reset"`, `"email"`, `"date"`, `"radio"`, `"password"`
+	*	`required`, `value`, `name`, `min`
+*	menu déroulant `<select>`
+	*	option `<option>`
+*	commentaire `<!-- -->`
+*	`<div>` et `<span>`
+
+### **Éléments sémantiques**
+*	`<header>`
+*	`<nav>`
+*	`<main>`
+*	`<footer>`
+
+### **Sujets :**
+*	Afficher le code source avec Chrome
+
+### **Ressources :**
+*	https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
+*	https://waitbutwhy.com/
+
+> "__Si vous retenez une chose de tout ça, c'est que...__: Ne vous inquiétez pas si vous n'êtes pas sûr à 100% de vos connaissances en HTML. Continuez car nous continuerons à développer ces connaissances."
 
 
 ******************************************************************************************
